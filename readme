@@ -1,0 +1,14 @@
+This repository presents my work in TCAD-based device simulation and reliability analysis as part of my M.Tech VLSI Design program.
+My primary focus areas include:
+- IGZO thin-film transistor (TFT) device modeling
+- Electrical parameter extraction from TCAD simulations
+- Mixed-mode device–circuit simulation
+- Radiation-induced Single Event Upset (SEU) analysis using LET-based heavy-ion modeling
+
+The work emphasizes understanding device physics, transient behavior, and reliability effects relevant to advanced and radiation-aware electronic systems.
+
+# Tools & Methods
+- TCAD Device Simulation: SILVACO ATLAS
+- Mixed-Mode Simulation: TCAD–SPICE
+- Radiation Modeling: LET-based heavy-ion SEU simulation
+- Analysis: DC, transient, and recombination analysis
